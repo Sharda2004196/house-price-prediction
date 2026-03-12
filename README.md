@@ -110,8 +110,6 @@ Download `train.csv` from [Kaggle](https://www.kaggle.com/competitions/house-pri
 Go to **Runtime → Run All** and you're done!
 ```
 
----
-
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn] https://linkedin.com/in/sharda-vatsal-bhat-73b037295

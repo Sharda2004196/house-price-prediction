@@ -98,24 +98,16 @@ Step 8 → Final Summary
 
 ## 🚀 How to Run
 
-1. **Clone the repo**
-```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
-cd house-price-prediction
-```
+**1. Open in Google Colab**
+Click the link below to open the notebook directly in Colab:
 
-2. **Download the dataset**  
-   Get `train.csv` from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)  
-   and place it in the project folder.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZExKkalHtoG_w_rSUd9HUXFODmsCDpuy)
 
-3. **Install dependencies**
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
+**2. Download the dataset**
+Download `train.csv` from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) and upload it to your Colab session.
 
-4. **Run the notebook**
-```bash
-Google Colab notebook house_price_prediction.ipynb
+**3. Run all cells**
+Go to **Runtime → Run All** and you're done!
 ```
 
 ---

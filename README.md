@@ -92,7 +92,7 @@ Step 8 → Final Summary
 | NumPy | Numerical operations |
 | Matplotlib & Seaborn | Data visualization |
 | Scikit-learn | Machine learning models |
-| Google Colab notebook | Development environment |
+| Google Colab | Development environment |
 
 ---
 
